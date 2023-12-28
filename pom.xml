@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.fd</groupId>
 	<artifactId>baseCrud</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<name>baseCrud</name>
 	<description>BaseCRUD project for Spring Boot </description>
 	<properties>
